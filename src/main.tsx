@@ -5,7 +5,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 import { BrowserRouter } from 'react-router'
-
+import '@/index.css'
 // MSW 워커를 활성화하는 함수(개발환경에서만 실행)
 async function enableMocking() {
   if (import.meta.env.MODE !== 'development') {
