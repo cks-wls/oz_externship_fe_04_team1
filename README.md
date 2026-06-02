@@ -53,75 +53,75 @@ StudyHub는 온라인 강의 수강 중도 포기를 줄이기 위해
 
 ## 렌딩페이지
 
-<img width="400" height="824" alt="Image" src="https://github.com/user-attachments/assets/891b12b2-a3de-41b9-84a1-bce956a98d79" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/891b12b2-a3de-41b9-84a1-bce956a98d79" />
 
-<img width="400" height="826" alt="Image" src="https://github.com/user-attachments/assets/8c91a704-5496-40dc-bb6a-2461e437c595" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/8c91a704-5496-40dc-bb6a-2461e437c595" />
 
-<img width="400" height="827" alt="Image" src="https://github.com/user-attachments/assets/7988f658-fcd3-4f38-b5b7-a65fd21f1028" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/7988f658-fcd3-4f38-b5b7-a65fd21f1028" />
 
 ## 회원가입 및 로그인 페이지
 
-<img width="400" height="1650" alt="Image" src="https://github.com/user-attachments/assets/8c52abff-706f-4a9d-be6f-39087c02656a" />
-<img width="400" height="1650" alt="Image" src="https://github.com/user-attachments/assets/41db7b4d-df66-4535-9784-0f936ba0a943" />
-<img width="400" height="1650" alt="Image" src="https://github.com/user-attachments/assets/2ec502ed-abc1-40ed-978d-92697293384e" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/8c52abff-706f-4a9d-be6f-39087c02656a" />
+<imgwidth = "500" alt="Image" src="https://github.com/user-attachments/assets/41db7b4d-df66-4535-9784-0f936ba0a943" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/2ec502ed-abc1-40ed-978d-92697293384e" />
 
 ## 이메일 찾기 및 비밀번호 찾기
 - 이메일 찾기
 
-<img width="400" height="822" alt="Image" src="https://github.com/user-attachments/assets/257bc518-4f10-4617-ae6b-8144c2f797bb" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/257bc518-4f10-4617-ae6b-8144c2f797bb" />
 
-<img width="400" height="826" alt="Image" src="https://github.com/user-attachments/assets/97007603-53f9-4993-ac00-405a7f274fc9" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/97007603-53f9-4993-ac00-405a7f274fc9" />
 
-<img width="400" height="822" alt="Image" src="https://github.com/user-attachments/assets/3ac444d1-4298-45a7-a3d8-d26839139e24" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/3ac444d1-4298-45a7-a3d8-d26839139e24" />
 
 - 비밀번호 찾기
 
-<img width="400" height="826" alt="Image" src="https://github.com/user-attachments/assets/d308dd31-bde2-4d70-8e26-faedf24c22d1" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/d308dd31-bde2-4d70-8e26-faedf24c22d1" />
 
-<img width="400" height="827" alt="Image" src="https://github.com/user-attachments/assets/6af8c04e-2e3b-4d08-8557-7d7db0d5ba17" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/6af8c04e-2e3b-4d08-8557-7d7db0d5ba17" />
 
-<img width="400" height="826" alt="Image" src="https://github.com/user-attachments/assets/ce4dad32-42d3-49db-a638-a0318bc77c7a" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/ce4dad32-42d3-49db-a638-a0318bc77c7a" />
 
 ## 탈퇴 복구
 
 
 ## 마이페이지(내정보, 북마크한 공고, 북마크한 강의, 지원 내역, 완료된 스터디)
 - 내정보
-<img width="400" height="1646" alt="Image" src="https://github.com/user-attachments/assets/30606eb8-f1b8-4497-922c-2d49f6f9ed1f" />
+<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/30606eb8-f1b8-4497-922c-2d49f6f9ed1f" />
 
-<img width="400" height="1650" alt="Image" src="https://github.com/user-attachments/assets/bbf4dcc9-9ebd-4f76-8910-4918b6619951" />
+<img width = "500"  alt="Image" src="https://github.com/user-attachments/assets/bbf4dcc9-9ebd-4f76-8910-4918b6619951" />
 
-<img width="400" height="1644" alt="Image" src="https://github.com/user-attachments/assets/e59fe0ce-1ff6-4904-ade9-13a35b67553f" />
+<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/e59fe0ce-1ff6-4904-ade9-13a35b67553f" />
 
-<img width="400" height="1646" alt="Image" src="https://github.com/user-attachments/assets/4f52e3f9-f279-44ad-b76a-26b309a74d89" />
+<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/4f52e3f9-f279-44ad-b76a-26b309a74d89" />
 
-<img width="400" height="1642" alt="Image" src="https://github.com/user-attachments/assets/dbee680a-7efd-401e-bfe9-4d14655247a7" />
+<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/dbee680a-7efd-401e-bfe9-4d14655247a7" />
 
-<img width="400" height="1640" alt="Image" src="https://github.com/user-attachments/assets/a4784e42-0020-4942-ae5b-592e19a6743c" />
+<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/a4784e42-0020-4942-ae5b-592e19a6743c" />
 
 - 북마크한 공고
 
-<img width="400" height="829" alt="Image" src="https://github.com/user-attachments/assets/48b03c9d-165d-4e4b-81a3-d1fe10d15ae9" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/48b03c9d-165d-4e4b-81a3-d1fe10d15ae9" />
 
 - 북마크한 강의
 
-<img width="400" height="824" alt="Image" src="https://github.com/user-attachments/assets/4eb102f7-b618-4a07-ad4d-4ed1e612dfdc" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/4eb102f7-b618-4a07-ad4d-4ed1e612dfdc" />
 
 - 지원 내역
 
-<img width="400" height="824" alt="Image" src="https://github.com/user-attachments/assets/b422da14-c3da-412c-975b-1f87be285841" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/b422da14-c3da-412c-975b-1f87be285841" />
 
-<img width="400" height="819" alt="Image" src="https://github.com/user-attachments/assets/cffdd2d8-95a5-425e-8879-f5efa86fb9d8" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/cffdd2d8-95a5-425e-8879-f5efa86fb9d8" />
 
-<img width="400" height="824" alt="Image" src="https://github.com/user-attachments/assets/da3aceb3-fbb3-4d13-9c70-90f5a21cafdb" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/da3aceb3-fbb3-4d13-9c70-90f5a21cafdb" />
 
 - 완료된 스터디
 
-<img width="400" height="824" alt="Image" src="https://github.com/user-attachments/assets/3cc00234-78f1-4730-a7da-151c8afcfe78" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/3cc00234-78f1-4730-a7da-151c8afcfe78" />
 
-<img width="400" height="821" alt="Image" src="https://github.com/user-attachments/assets/0910819d-a548-4aa2-92f0-20ecbf2fbaeb" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/0910819d-a548-4aa2-92f0-20ecbf2fbaeb" />
 
-<img width="400" height="824" alt="Image" src="https://github.com/user-attachments/assets/f524b82c-b8a0-4e40-9390-2896a276c156" />
+<img width = "500" alt="Image" src="https://github.com/user-attachments/assets/f524b82c-b8a0-4e40-9390-2896a276c156" />
 
 ## 시연 영상
 
